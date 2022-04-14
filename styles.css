@@ -51,7 +51,7 @@ main {
     justify-content: center;
     align-items: center;
     opacity: 0;
-    transition: opacity 0.2s ease-in-out, background-color 0.2s ease-in-out;
+    transition: opacity 0.3s ease-in-out, background-color 0.3s ease-in-out;
     background-color: rgba(0, 255, 247, 0.6);
     cursor: pointer;
 }
@@ -69,6 +69,7 @@ main {
     font-weight: 600;
     cursor: pointer;
     display: inline-block;
+    transition: color 0.3s;
 }
 .nft-title:hover {
     color: var(--cyan-color);
@@ -95,6 +96,7 @@ main {
     color: var(--soft-blue);
     display: flex;
     align-items: center;
+    justify-content: end;
     column-gap: 8px;
     font-size: 15px;
 }
@@ -112,8 +114,9 @@ main {
     color: var(--soft-blue);
 }
 .nft-creator {
-    margin-left: -10px;
+    margin-left: -12px;
     color: white;
+    transition: color 0.3s;
 }
 .nft-creator:hover {
     color: var(--cyan-color);
