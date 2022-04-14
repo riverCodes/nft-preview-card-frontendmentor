@@ -96,7 +96,6 @@ main {
     color: var(--soft-blue);
     display: flex;
     align-items: center;
-    justify-content: end;
     column-gap: 8px;
     font-size: 15px;
 }
