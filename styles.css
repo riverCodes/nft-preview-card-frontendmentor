@@ -26,8 +26,8 @@ main {
     display: flex;
     flex-direction: column;
     width: 22rem;
-    padding: 1.5em;
-    border-radius: 20px;
+    padding: 1.3em;
+    border-radius: 12px;
     row-gap: 30px;
 }
 .nft-thumbnail-container {
@@ -36,7 +36,7 @@ main {
 }
 .nft-thumbnail {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 6px;
     display: block;
 }
 .nft-thumbnail-overlay {
@@ -113,7 +113,6 @@ main {
     color: var(--soft-blue);
 }
 .nft-creator {
-    margin-left: -12px;
     color: white;
     transition: color 0.3s;
 }
