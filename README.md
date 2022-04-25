@@ -47,6 +47,7 @@ Users should be able to:
 * In this project, I used whatever tips and tricks I learnt in the last challenge. Hopefully the code is more accessible for all screen sizes as well as for assistive technologies.
 * I had a few problems that I solved in a not-so-ideal manner but it is what I could do with my current knowledge. I got some advice on how my HTML should be but it mentioned a few things I was not familiar with, so because of that I didn't implement them. My hope is once I learn those concepts and properties, I can come back and do this challenge properly
 * For now, I think my design looks quite close to the original, even if the code behind it is messy and not-ideal.
+* I also used CSS Custom Properties for the first time. I don't think it was needed, I just wanted to use them. I want to come across a situation where they will be helpful.
 
 ### Continued development
 
